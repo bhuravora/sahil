@@ -1,6 +1,6 @@
 # sahil
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
-<img src="Images/Programming.jpg" width="1000">
+
 
 # Created by sahil
 

@@ -2,7 +2,7 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 <img src="Images/Programming.jpg" width="1000">
 
-# Created by Saurav Raghuvanshi
+# Created by sahil
 
 This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -33,11 +33,11 @@ In this project, the student had to make use of Python to explore data related t
 
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project-2).
+[Check My Project Submission](https://github.com/bhuravora/sahil.git).
 ### Python Learning In The Course
 
 Check the link for my learning material.
-[Check this out](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Python%20practice%20code)
+[Check this out](https://github.com/bhuravora/sahil.git)
 
 #### Files Used
 
@@ -61,7 +61,3 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
-
-# My Certificate of Completion
-<img src="Images/Data Science.png" width="1000">
